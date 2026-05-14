@@ -1,0 +1,14 @@
+{
+  "state": {
+    "player_name": "212",
+    "current_scene": "intro",
+    "health": 100,
+    "path_chosen": null,
+    "flags": {},
+    "inventory": [],
+    "npc_met": [],
+    "game_over": false,
+    "ending": null
+  },
+  "checksum": "4715fa6ce0de3f9fa944ccdc06b9dcf74fb5bb05108cc2edff065a97a49974ee"
+}
